@@ -1,3 +1,0 @@
-/home/jetson/screenCamera/build/CMakeFiles/screenCamera.dir
-/home/jetson/screenCamera/build/CMakeFiles/edit_cache.dir
-/home/jetson/screenCamera/build/CMakeFiles/rebuild_cache.dir
